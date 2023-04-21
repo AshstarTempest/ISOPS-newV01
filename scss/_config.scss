@@ -1,0 +1,17 @@
+$primary-color:#272727;
+$secondary-color:#ff652f;
+$web-trail:#87CBB9;
+$web-trail_1:#FFCE66;
+$burger:#fff;
+
+;
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+@mixin transition-ease{
+    transition: all 1s ease-in-out;
+}
